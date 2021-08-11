@@ -1,0 +1,37 @@
+body{
+    background-image: url(../assets/images/TableImage.jpeg); 
+    backg
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.content {  
+  position: fixed;
+  top:25%;
+  left:30%;
+  background: white;
+  color: black;
+  width: 40%;
+  padding: 20px;
+  border-top-right-radius: 30px; 
+  border-bottom-left-radius: 30px;
+
+}
+ #btn-login{
+
+ width: 100%;
+ margin-top: 10px;
+ background-color: #003153;
+ color: white;
+
+
+}
+#inputun-admin{
+   background-color: #efebeb;
+
+ 
+}
+#inputpswd-admin{
+   background-color: #efebeb;
+
+}
